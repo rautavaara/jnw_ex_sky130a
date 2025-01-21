@@ -10,11 +10,12 @@ julio_kh
 
 # Why
 
-<explain why you made this module>
+#Trying to learn some analog desing and simulation while expanding my knowledge in LVS/DRC flows.
+#Trying to create methodologies to improve analog desing and reduce the time for layout.
 
 # How
 
-<explain short how you made this module>
+#We will see how later..
 
 
 # What
